@@ -4,7 +4,7 @@ import classtoysImage from '../assets/images/classtoys.jpg';
 
 const HomePrograms = () => {
   const benefits = [
-    'Familiar, comfortable environment for the child',
+    'Familiar, comfortable environment for the child',    
     'Personalized one-on-one attention',
     'Family involvement and training',
     'Flexible scheduling to fit your routine',
